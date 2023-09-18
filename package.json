@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rohitkumawat45.github.io/modern-website",
+  "homepage": "https://rohitkumawat45.github.io/modern-web",
   "name": "modern-web",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "url",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
